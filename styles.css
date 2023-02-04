@@ -1,4 +1,40 @@
 .button {
     background-color: blueviolet;
-    border: 1px soid springgreen;
+    border: 5px soid black;
+    border-radius: 5px;
+	font-weight: bold;
+	color: black;
+	display: inline-block;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.button2 {
+    background-color: blue;
+    border: 5px soid black;
+    border-radius: 15px;
+	font-weight: bold;
+	color: white;
+	display: inline-block;
+	padding: 20px 40px;
+	text-decoration: none;
+    margin: 10px;
+}
+
+body {
+	font-family: 'Lucida Sans';
+	margin: 30px auto;
+	max-width: 800px;
+    background-color: ghostwhite;
+}
+
+img {
+	max-width: 500px;
+	width: 100%;
+}
+
+h1 {
+    color: blueviolet;
+    margin: 8px auto;
+    font-family: 'Courier New';
 }
